@@ -14,4 +14,7 @@ Languages, Tools and Frameworks
 ![Flutter](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
 
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/its_a_bonk)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dark_bonk/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=4f7db8)](https://vk.com/its_a_bonk_man)
