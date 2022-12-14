@@ -1,4 +1,4 @@
-[![Header](https://github.com/BONK777/bonk777/blob/main/assets/noutbuk_klavishi_svechenie_170138_1280x720.jpg)](https://bonk777.github.io/portfolio/)
+[![Header](https://github.com/BONK777/bonk777/blob/main/assets/markus-spiske-221494-1440x400.jpg)](https://bonk777.github.io/portfolio/)
 
 ## I am a beginner frontend developer 
 
