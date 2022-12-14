@@ -12,9 +12,14 @@ Languages, Tools and Frameworks
 ![Flutter](https://img.shields.io/badge/-angular-090909?style=for-the-badge&logo=angular)
 ![Flutter](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 ![Flutter](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
+![Flutter](https://img.shields.io/badge/-pug-090909?style=for-the-badge&logo=pug&logoColor=ff0000)
 
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/its_a_bonk)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/dark_bonk/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=4f7db8)](https://vk.com/its_a_bonk_man)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BONK777&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonk777&layout=compact)](https://github.com/bonk777/github-readme-stats&theme=dark)
